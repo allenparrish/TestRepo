@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Here's a file for new1 in branch 2
+=======
+Just trying another file
+And adding some more stuff
+And adding some more stuff to the branch1 version
+>>>>>>> master
