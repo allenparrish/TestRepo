@@ -1,3 +1,1 @@
-Just trying another file
-And adding some more stuff
-And then adding more stuff to go in Branch2
+Here's a file for new1 in branch 2
